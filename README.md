@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🌐 I'm a Geological Ing in Training (CPI) and Developer <br> 
-- 📖 I work in Pyside 6, Qt/QML, Python
-- 🌱 Next Learning: Javascript/Typescript (React, React native, probably Vue not sure), SQL
+- 📖 I work in Pyside 6, Qt/QML, Python, Rust
+- 🌱 Next Learning: Javascript/Typescript, React, Rust, Tauri, SQL
 - 🔭 I’m currently working in geology exploration and code on professional and personnal projects
 - 📫 How to reach me: alextondoh@gmail.com
 
